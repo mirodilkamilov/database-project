@@ -20,8 +20,8 @@ You can find a complete **Report** from [here](DB-Report.pdf).
 
 Here is the **Logical Schema** of the application
 
-<a href="https://raw.githubusercontent.com/mirodil1999/database-project/main/Team24_LogicalSchema.png" alt="Logical Schema" target="_blank">
-   <img src="logical-schema-readme.png">
+<a href="https://raw.githubusercontent.com/mirodil1999/database-project/main/Team24_LogicalSchema.png" target="_blank">
+   <img src="logical-schema-readme.png" alt="Logical Schema">
 </a>
 
-You can also import [DDL file](Team24_DDL.sql) with [some test data (DML)](Team24_DML.sql) in order to test some queries
+You can also import [DDL file](main/Team24_DDL.sql) with [some test data (DML)](main/Team24_DML.sql) in order to test some queries
