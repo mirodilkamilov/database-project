@@ -1,6 +1,6 @@
 # Database Design for Samsung Health
 
-Database Design for an existing application called [Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/). It is developed for term project from the Database Application and Design course (Spring 2021) at Inha University in Tashkent. This application design supposed to implement only core features of the existing one, like:
+**Database Design** for an existing application called [Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/). It is developed for term project from the Database Application and Design course (Spring 2021) at Inha University in Tashkent. This application design supposed to implement only **core features** of the existing one, like:
 
 * Recording different kinds of health-related data, like weight, sleep, food
 
@@ -16,10 +16,10 @@ Database Design for an existing application called [Samsung Health](https://www.
 
 * Offering meditation tools, like music, sleep stories, different sessions
 
-You can find a complete report from [here](DB-Report.pdf).
+You can find a complete **Report** from [here](DB-Report.pdf).
 
-Here is the Logical Schema of the application
+Here is the **Logical Schema** of the application
 
-![Logical Schema](Team24_LogicalSchema.png)
+![Logical Schema](logical-schema-readme.png)
 
 You can also import [DDL file](Team24_DDL.sql) with [some test data (DML)](Team24_DML.sql) in order to test some queries
