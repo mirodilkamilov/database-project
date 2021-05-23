@@ -20,6 +20,8 @@ You can find a complete **Report** from [here](DB-Report.pdf).
 
 Here is the **Logical Schema** of the application
 
-![Logical Schema](logical-schema-readme.png)
+<a href="Team24_LogicalSchema.png" alt="Logical Schema">
+   <img src="logical-schema-readme.png">
+</a>
 
 You can also import [DDL file](Team24_DDL.sql) with [some test data (DML)](Team24_DML.sql) in order to test some queries
