@@ -20,7 +20,7 @@ You can find a complete **Report** from [here](DB-Report.pdf).
 
 Here is the **Logical Schema** of the application
 
-<a href="https://raw.githubusercontent.com/mirodil1999/database-project/main/Team24_LogicalSchema.png" target="_blank">
+<a href="main/Team24_LogicalSchema.png" target="_blank">
    <img src="logical-schema-readme.png" alt="Logical Schema">
 </a>
 
